@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>adhkar-java-sabah-masa-scheduler</artifactId>
+  <version>1.0.0</version>
+  <name>Astronomical Fajr-to-Sunrise & Asr-to-Maghrib Adhkar Window Scheduler</name>
+</project>
